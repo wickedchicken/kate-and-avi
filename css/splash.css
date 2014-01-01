@@ -1,12 +1,15 @@
 /* another microsite joint http://wickedchicken.github.com/microsite/ */
 body { 
 font: 1em Helvetica, Arial, sans-serif;
-background: #CCA468;
+background: #212323;
+background:url(http://commondatastorage.googleapis.com/kate-and-avi-songs%2Fkate_and_avi.jpg);
+background-size: cover;
+background-repeat:no-repeat;
 text-align: center;
 }
 
 #chunk {  
-background: #FACA81;
+background: #6E7474;
 margin: 0 auto;
 margin-top: 30ex;
 margin-bottom: 10ex;
@@ -17,6 +20,6 @@ width: 20em;
 #main {  
 font: 1em Verdana, Arial, Helvetica, sans-serif;
 /* color: #675F53; */
-color: #675F53;
+color: #DDE9E9;
 clear: both;
 }
